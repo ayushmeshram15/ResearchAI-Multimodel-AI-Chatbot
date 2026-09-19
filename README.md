@@ -1,12 +1,16 @@
 # ResearchMind 🧠⚡
 ### Multi-Agent Grounded Research Engine powered by Google Gemini
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Google_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://ais-pre-ypgcwy6yqiqjgz2dtsvmz7-606363115426.asia-east1.run.app)
 [![React 19](https://img.shields.io/badge/React-19.0-61dafb.svg?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178c6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.0+-646cff.svg?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38bdf8.svg?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Google GenAI SDK](https://img.shields.io/badge/Google_GenAI_SDK-@google/genai-4285f4.svg?logo=google&logoColor=white)](https://ai.google.dev/)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+> 🔗 **Live Website**: [https://ais-pre-ypgcwy6yqiqjgz2dtsvmz7-606363115426.asia-east1.run.app](https://ais-pre-ypgcwy6yqiqjgz2dtsvmz7-606363115426.asia-east1.run.app)  
+> *Deployed and live on Google Cloud Run.*
 
 **ResearchMind** is an autonomous multi-agent research platform that orchestrates five specialized AI agents to gather live web evidence, analyze empirical facts, draft structured reports with inline source citations, audit factual accuracy via a dedicated Critic agent, and deliver hallucination-free research briefs.
 
